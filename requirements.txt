@@ -1,0 +1,22 @@
+httpx
+httpx2
+langchain-openai
+langchain-pinecone
+langchain-text-splitters
+langgraph
+openai
+pinecone>=6,<8
+python-dotenv
+streamlit
+typesafe-sdk
+torch>=2.6
+transformers>=4.57,<5
+peft>=0.18
+accelerate>=1.0
+Pillow>=10
+bitsandbytes>=0.49; platform_system != "Darwin"
+pdfplumber==0.11.5
+python-frontmatter==1.1.0
+pyyaml==6.0.2
+networkx==3.4.2
+requests==2.32.3
